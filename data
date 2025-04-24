@@ -1,1 +1,1 @@
-
+text <- readLines("data/pg1513.txt")
